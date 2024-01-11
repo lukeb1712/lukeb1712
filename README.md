@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lukasz.
+- 👋 Hi, I’m Luke.
 - 👀 I’m interested in software development, application development, and web development. 
 - 🌱 I’m currently learning Java programming language as an extension to my Computer Science studies.
 - 💞️ I’m looking to collaborate on building interactive desktop applications. 
